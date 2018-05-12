@@ -57,8 +57,8 @@ A mind map for life
 #### 20180512_每天努力一点的人.jpg
 ![20180512_每天努力一点的人.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180512_每天努力一点的人.jpg)
 
-#### 20180511_SQL_JOINS_2.png
-![20180511_SQL_JOINS_2.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180511_SQL_JOINS_2.png)
+#### 20180511_SQL_JOINS_2.jpg
+![20180511_SQL_JOINS_2.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180511_SQL_JOINS_2.jpg)
 
 #### 20180511_SQL_JOINS_1.png
 ![20180511_SQL_JOINS_1.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180511_SQL_JOINS_1.png)
@@ -68,8 +68,8 @@ A mind map for life
 ![201805_apple产品保修与维修说明.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_apple产品保修与维修说明.png)
 
 
-#### 201805_How_to_choose_a_career?.jpg
-![201805_How_to_choose_a_career?.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_How_to_choose_a_career?.jpg)
+#### 201805_How_to_choose_a_career？.jpg
+![201805_How_to_choose_a_career？.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_How_to_choose_a_career？.jpg)
 
 #### 201805_iOS大神班课程大纲byM了个J.jpg
 ![201805_iOS大神班课程大纲byM了个J.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iOS大神班课程大纲byM了个J.jpg)
