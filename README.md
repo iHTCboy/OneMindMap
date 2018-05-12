@@ -119,8 +119,8 @@ A mind map for life
 #### 201805_程序员发展路线by《程序员跳槽全攻略》.png
 ![201805_程序员发展路线by《程序员跳槽全攻略》.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_程序员发展路线by《程序员跳槽全攻略》.png)
 
-#### 201805_程序员职业发展路线.JPG
-![201805_程序员职业发展路线.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_程序员职业发展路线.JPG)
+#### 201805_程序员职业发展路线.jpg
+![201805_程序员职业发展路线.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_程序员职业发展路线.jpg)
 
 #### 201805_个人发展OKR流程图.jpg
 ![201805_个人发展OKR流程图.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_个人发展OKR流程图.jpg)
@@ -140,12 +140,12 @@ A mind map for life
 #### 201805_GTD流程图.jpg
 ![201805_GTD流程图.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_GTD流程图.jpg)
 
-#### 201805_IOS开发学习过程.PNG
-![201805_IOS开发学习过程.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_IOS开发学习过程.PNG)
+#### 201805_IOS开发学习过程.png
+![201805_IOS开发学习过程.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_IOS开发学习过程.png)
 
 #### 201805_lena_std.jpg
 ![201805_lena_std.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_lena_std.jpg)
 
-#### 201805_l_hires.jp
+#### 201805_l_hires.jpg
 ![201805_l_hires.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_l_hires.jpg)
 
