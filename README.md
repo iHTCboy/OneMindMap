@@ -18,6 +18,9 @@ A mind map for life
 #### 20180601_程序员的知识框架_knowledge-framework_by邱俊涛_ThoughtWorks咨询师.png
 ![20180601_程序员的知识框架_knowledge-framework_by邱俊涛_ThoughtWorks咨询师.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180601_程序员的知识框架_knowledge-framework_by邱俊涛_ThoughtWorks咨询师.png)
 
+#### 20180527_一个成熟的APP架构.jpg
+![20180526_Andriod入门基础线路图.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180527_一个成熟的APP架构.jpg)
+
 #### 20180526_Andriod入门基础线路图.png
 ![20180526_Andriod入门基础线路图.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180526_Andriod入门基础线路图.png)
 
@@ -36,11 +39,17 @@ A mind map for life
 #### 20180521_前端工程师技术栈.jpg
 ![20180521_前端工程师技术栈.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180521_前端工程师技术栈.jpg)
 
+#### 20180520_iOS_GCD.png
+![20180519_中国在全球竞争国指数.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180520_iOS_GCD.png)
+
 #### 20180519_中国在全球竞争国指数.jpg
 ![20180519_中国在全球竞争国指数.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180519_中国在全球竞争国指数.jpg)
 
 #### 20180518_需求调研的四个维度.jpg
 ![20180518_需求调研的四个维度.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180518_需求调研的四个维度.jpg)
+
+#### 20180517_vim命令图解.png
+![20180517_vim命令图解.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180517_vim命令图解.png)
 
 #### 20180516_Git常用命令速查表.jpg
 ![20180516_Git常用命令速查表.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180516_Git常用命令速查表.jpg)
