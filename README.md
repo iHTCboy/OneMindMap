@@ -18,6 +18,11 @@ A mind map for life
 #### 20180601_程序员的知识框架_knowledge-framework_by邱俊涛_ThoughtWorks咨询师.png
 ![20180601_程序员的知识框架_knowledge-framework_by邱俊涛_ThoughtWorks咨询师.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180601_程序员的知识框架_knowledge-framework_by邱俊涛_ThoughtWorks咨询师.png)
 
+#### 20180528_Dunning-Kruger-Effect.png
+![20180528_Dunning-Kruger-Effect.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180528_Dunning-Kruger-Effect.png)
+
+![20180528_Dunning-Kruger-Effect(达克效应).jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180528_Dunning-Kruger-Effect(达克效应).jpg)
+
 #### 20180527_一个成熟的APP架构.jpg
 ![20180526_Andriod入门基础线路图.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180527_一个成熟的APP架构.jpg)
 
