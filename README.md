@@ -3,6 +3,10 @@ A mind map for life
 与大家一起分享有趣的图片，范围无限，尽情想象，公众号同步：
 ![201805_iHTCboy公众号.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg)
 
+
+#### 20180608_things工作流.jpg
+![20180608_things工作流.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180608_things工作流.jpg)
+
 #### 20180607_看看有多少编程语言_你看到的也许只是冰山一角.jpg
 ![20180605_runtime10用法.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180607_看看有多少编程语言_你看到的也许只是冰山一角.jpg)
 
