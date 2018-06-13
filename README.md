@@ -4,6 +4,9 @@ A mind map for life
 ![201805_iHTCboy公众号.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg)
 
 
+#### 20180613_一套完整的企业财务模型图.JPG
+![20180613_一套完整的企业财务模型图.JPG](20180613_一套完整的企业财务模型图.JPG)
+
 #### 20180608_things工作流.jpg
 ![20180608_things工作流.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180608_things工作流.jpg)
 
