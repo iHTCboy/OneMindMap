@@ -4,11 +4,15 @@ A mind map for life
 ![201805_iHTCboy公众号.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg)
 
 
+
 #### 20180628_《网络安全思维导图》1.2扫描与防御技术.png
 ![20180628_《网络安全思维导图》1.2扫描与防御技术.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180628_《网络安全思维导图》1.2扫描与防御技术.png)
 
 #### 20180627_《网络安全思维导图》1.1网络安全绪论.png
 ![20180627_《网络安全思维导图》1.1网络安全绪论.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180627_《网络安全思维导图》1.1网络安全绪论.png)
+
+#### 20180613_如何建立一个完整的企业财务模型_贝乐斯.JPG
+![20180613_如何建立一个完整的企业财务模型_贝乐斯.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180613_如何建立一个完整的企业财务模型_贝乐斯.JPG)
 
 #### 20180608_things工作流.jpg
 ![20180608_things工作流.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180608_things工作流.jpg)
