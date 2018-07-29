@@ -4,6 +4,8 @@ A mind map for life
 ![201805_iHTCboy公众号.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg)
 
 
+#### 20180730_Django的MTV模型组织.jpg
+![20180730_Django的MTV模型组织.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180730_Django的MTV模型组织.jpg)
 
 #### 20180729_web框架.jpg
 ![20180729_web框架.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180729_web框架.jpg)
