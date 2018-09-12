@@ -3,6 +3,8 @@ A mind map for life
 与大家一起分享有趣的图片，范围无限，尽情想象，公众号同步：
 ![201805_iHTCboy公众号.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg)
 
+#### 20180912_输入url发生了什么？
+![20180912_输入url发生了什么？.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180912_输入url发生了什么？.jpg)
 
 #### 20180815_CodeReview代码问题.png
 ![20180815_CodeReview代码问题.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20180815_CodeReview代码问题.png)
