@@ -4,6 +4,12 @@ A mind map for life
 ![201805_iHTCboy公众号.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg)
 
 
+#### 20181011_就业风险评估图：脑力劳动-《AI-未来》李开复.JPG
+![20181002_数据结构与算法-王争.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181011_就业风险评估图：脑力劳动-《AI-未来》李开复.JPG)
+
+#### 20181010_就业风险评估图：体力劳动-《AI-未来》李开复.JPG
+![20181002_数据结构与算法-王争.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181010_就业风险评估图：体力劳动-《AI-未来》李开复.JPG)
+
 #### 20181002_数据结构与算法-王争.PNG
 ![20181002_数据结构与算法-王争.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181002_数据结构与算法-王争.PNG)
 
