@@ -5,7 +5,7 @@ A mind map for life
 
 
 #### 20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG
-![20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG](20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG)
+![20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG)
 
 #### 20181011_就业风险评估图：脑力劳动-《AI-未来》李开复.JPG
 ![20181011_就业风险评估图：脑力劳动-《AI-未来》李开复.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181011_就业风险评估图：脑力劳动-《AI-未来》李开复.JPG)
