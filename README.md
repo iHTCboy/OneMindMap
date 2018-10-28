@@ -4,6 +4,10 @@ A mind map for life
 ![201805_iHTCboy公众号.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg)
 
 
+
+#### 20181027_HTML5元素周期表-periodic-table-of-html5-elements.jpg
+![20181027_HTML5元素周期表-periodic-table-of-html5-elements.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181027_HTML5元素周期表-periodic-table-of-html5-elements.jpg)
+
 #### 20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG
 ![20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181015_人类与人工智能未来可以共存-《AI-未来》李开复.JPG)
 
