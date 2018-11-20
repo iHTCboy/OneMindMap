@@ -3,6 +3,10 @@ A mind map for life
 与大家一起分享有趣的图片，范围无限，尽情想象，公众号同步：
 <img src="https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg" width="250" height:auto alt="201805_iHTCboy公众号.jpg"/>
 
+
+#### 20181119_Python零基础入门到实践.JPG
+![20181119_Python零基础入门到实践.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181119_Python零基础入门到实践.JPG)
+
 #### 20181027_HTML5元素周期表-periodic-table-of-html5-elements.jpg
 ![20181027_HTML5元素周期表-periodic-table-of-html5-elements.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181027_HTML5元素周期表-periodic-table-of-html5-elements.jpg)
 
