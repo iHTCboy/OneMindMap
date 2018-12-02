@@ -5,8 +5,8 @@ A mind map for life
 <img src="https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg" width="250" height:auto alt="201805_iHTCboy公众号.jpg"/>
 
 
-#### 20181202_程序员技能图谱- CTO 技能 by-StuQ.png
-![20181202_程序员技能图谱- CTO 技能by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181202_程序员技能图谱- CTO 技能by-StuQ.png)
+#### 20181202_程序员技能图谱-CTO技能-by-StuQ.png
+![20181202_程序员技能图谱- CTO 技能by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181202_程序员技能图谱-CTO技能-by-StuQ.png)
 
 #### 20181127_游戏程序员的学习之路.png
 ![20181127_游戏程序员的学习之路.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181127_游戏程序员的学习之路.png)

@@ -1,6 +1,6 @@
 
 
-#### 20181202 程序员技能图谱
+#### 程序员技能图谱系列
 - https://github.com/TeamStuQ/skill-map
 
 
