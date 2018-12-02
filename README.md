@@ -1,8 +1,12 @@
 # OneMindMap
 A mind map for life
 与大家一起分享有趣的图片，范围无限，尽情想象，公众号同步：
+
 <img src="https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg" width="250" height:auto alt="201805_iHTCboy公众号.jpg"/>
 
+
+#### 20181202_程序员技能图谱- CTO 技能 by-StuQ.png
+![20181202_程序员技能图谱- CTO 技能by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181202_程序员技能图谱- CTO 技能by-StuQ.png)
 
 #### 20181127_游戏程序员的学习之路.png
 ![20181127_游戏程序员的学习之路.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181127_游戏程序员的学习之路.png)
