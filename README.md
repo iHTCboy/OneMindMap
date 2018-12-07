@@ -4,6 +4,8 @@ A mind map for life
 
 <img src="https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg" width="250" height:auto alt="201805_iHTCboy公众号.jpg"/>
 
+#### 20181207_程序员技能图谱- Android App 开发-by-StuQ.png
+![20181207_程序员技能图谱- Android App 开发-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181207_程序员技能图谱- Android App 开发-by-StuQ.png)
 
 #### 20181206_程序员技能图谱- Android ROM 开发-by-StuQ.png
 ![20181206_程序员技能图谱- Android ROM 开发-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181206_程序员技能图谱- Android ROM 开发-by-StuQ.png)
