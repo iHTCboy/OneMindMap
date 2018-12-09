@@ -4,6 +4,9 @@ A mind map for life
 
 <img src="https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg" width="250" height:auto alt="201805_iHTCboy公众号.jpg"/>
 
+#### 20181209_程序员技能图谱-移动无线测试-by-StuQ.png
+![20181209_程序员技能图谱-移动无线测试-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181209_程序员技能图谱-移动无线测试-by-StuQ.png)
+
 #### 20181208_程序员技能图谱-iOS开发-by-StuQ.png
 ![20181208_程序员技能图谱-iOS开发-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181208_程序员技能图谱-iOS开发-by-StuQ.png)
 
