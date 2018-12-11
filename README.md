@@ -4,8 +4,12 @@ A mind map for life
 
 <img src="https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg" width="250" height:auto alt="201805_iHTCboy公众号.jpg"/>
 
+
 #### 2018-年终总结PPT该怎么写？.png
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)
+
+#### 20181211_程序员技能图谱-DBA-by-StuQ.png
+![20181211_程序员技能图谱-DBA-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181211_程序员技能图谱-DBA-by-StuQ.png)
 
 #### 20181210_程序员技能图谱-Kubernetes-by-StuQ.png
 ![20181210_程序员技能图谱-Kubernetes-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181210_程序员技能图谱-Kubernetes-by-StuQ.png)
