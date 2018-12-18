@@ -8,6 +8,15 @@ A mind map for life
 #### 2018-年终总结PPT该怎么写？.png
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)
 
+#### 20181219_程序员技能图谱-架构师-by-StuQ.png
+![20181219_程序员技能图谱-架构师-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181219_程序员技能图谱-架构师-by-StuQ.png)
+
+#### 20181218_程序员技能图谱-OpenRestyby-StuQ.png
+![20181218_程序员技能图谱-OpenRestyby-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181218_程序员技能图谱-OpenRestyby-StuQ.png)
+
+#### 20181217_程序员技能图谱-云计算-by-StuQ.png
+![20181217_程序员技能图谱-云计算-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181217_程序员技能图谱-云计算-by-StuQ.png)
+
 #### 20181216_程序员技能图谱-容器Container-by-StuQ.png
 ![20181216_程序员技能图谱-容器Container-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181216_程序员技能图谱-容器Container-by-StuQ.png)
 
