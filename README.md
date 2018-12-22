@@ -8,6 +8,20 @@ A mind map for life
 #### 2018-年终总结PPT该怎么写？.png
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)
 
+
+#### 20181223_程序员技能图谱-Web前端工程师-by-StuQ.png
+![20181223_程序员技能图谱-Web前端工程师-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181223_程序员技能图谱-Web前端工程师-by-StuQ.png)
+
+#### 20181222_程序员技能图谱-移动性能优化-by-StuQ.png
+![20181222_程序员技能图谱-移动性能优化-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181222_程序员技能图谱-移动性能优化-by-StuQ.png)
+
+#### 20181221_程序员技能图谱-HTML5开发-by-StuQ.png
+![20181221_程序员技能图谱-HTML5开发-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181221_程序员技能图谱-HTML5开发-by-StuQ.png)
+
+#### 20181220_程序员技能图谱-Angular2-by-StuQ.png
+![20181220_程序员技能图谱-Angular2-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181220_程序员技能图谱-Angular2-by-StuQ.png)
+
+
 #### 20181219_程序员技能图谱-架构师-by-StuQ.png
 ![20181219_程序员技能图谱-架构师-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181219_程序员技能图谱-架构师-by-StuQ.png)
 
