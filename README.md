@@ -8,6 +8,9 @@ A mind map for life
 #### 2018-年终总结PPT该怎么写？.png
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)
 
+#### 20181228_硅谷互联网公司的开发流程_by朱赟.JPG
+![20181228_硅谷互联网公司的开发流程_by朱赟.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/20181228_硅谷互联网公司的开发流程_by朱赟.JPG)
+
 #### 20181227_程序员技能图谱-机器学习-by-StuQ.png
 ![20181227_程序员技能图谱-机器学习-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/20181227_程序员技能图谱-机器学习-by-StuQ.png)
 
