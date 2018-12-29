@@ -9,19 +9,19 @@ A mind map for life
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)
 
 #### 20181229_程序开发者能力金字塔by安晓辉.jpeg
-![20181229_程序开发者能力金字塔by安晓辉.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/20181229_程序开发者能力金字塔by安晓辉.jpeg)
+![20181229_程序开发者能力金字塔by安晓辉.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181229_程序开发者能力金字塔by安晓辉.jpeg)
 
 #### 20181228_硅谷互联网公司的开发流程_by朱赟.JPG
-![20181228_硅谷互联网公司的开发流程_by朱赟.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/20181228_硅谷互联网公司的开发流程_by朱赟.JPG)
+![20181228_硅谷互联网公司的开发流程_by朱赟.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181228_硅谷互联网公司的开发流程_by朱赟.JPG)
 
 #### 20181227_程序员技能图谱-机器学习-by-StuQ.png
-![20181227_程序员技能图谱-机器学习-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/20181227_程序员技能图谱-机器学习-by-StuQ.png)
+![20181227_程序员技能图谱-机器学习-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181227_程序员技能图谱-机器学习-by-StuQ.png)
 
 #### 20181226_程序员技能图谱-Apollo自动驾驶-by-StuQ.png
-![20181226_程序员技能图谱-Apollo自动驾驶-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/20181226_程序员技能图谱-Apollo自动驾驶-by-StuQ.png)
+![20181226_程序员技能图谱-Apollo自动驾驶-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181226_程序员技能图谱-Apollo自动驾驶-by-StuQ.png)
 
 #### 20181225_程序员技能图谱-大数据-by-StuQ.png
-![20181225_程序员技能图谱-大数据-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/20181225_程序员技能图谱-大数据-by-StuQ.png)
+![20181225_程序员技能图谱-大数据-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181225_程序员技能图谱-大数据-by-StuQ.png)
 
 #### 20181224_程序员技能图谱-Hadoop-by-StuQ.png
 ![20181224_程序员技能图谱-Hadoop-by-StuQ.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20181224_程序员技能图谱-Hadoop-by-StuQ.png)
