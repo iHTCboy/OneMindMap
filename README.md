@@ -7,7 +7,6 @@ A mind map for life
 图片引用来源: [PictureReferenceSource.md](https://github.com/iHTCboy/OneMindMap/blob/master/PictureReferenceSource.md)
 
 <br>
-<br>
 
 #### 2018-年终总结PPT该怎么写？.png
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)

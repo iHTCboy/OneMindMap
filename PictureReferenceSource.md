@@ -1,7 +1,7 @@
 
 OneMindMap: https://github.com/iHTCboy/OneMindMap
 
-<br><br>
+<br>
 
 #### 20181229_程序开发者能力金字塔by安晓辉.jpeg
 - [构建开发者能力金字塔，化解年龄焦虑](https://mp.weixin.qq.com/s/lLr1g7OfozHf0tkf-seYPQ)
