@@ -3,6 +3,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20190113-再也不怕记单词-by粟之.jpg
+[有什么相见恨晚的背单词方法？ - 知乎](https://www.zhihu.com/question/48040579/answer/489918135)
+
 #### 20181229_程序开发者能力金字塔by安晓辉.jpeg
 - [构建开发者能力金字塔，化解年龄焦虑](https://mp.weixin.qq.com/s/lLr1g7OfozHf0tkf-seYPQ)
 

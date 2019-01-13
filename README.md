@@ -8,6 +8,10 @@ A mind map for life
 
 <br>
 
+
+#### 20190113-再也不怕记单词-by粟之.jpg
+![20190113-再也不怕记单词-by粟之.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190113-再也不怕记单词-by粟之.jpg)
+
 #### 2018-年终总结PPT该怎么写？.png
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)
 
