@@ -8,6 +8,8 @@ A mind map for life
 
 <br>
 
+#### 20190127-人工智能AI思维导图.png
+![20190127-人工智能AI思维导图.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190127-人工智能AI思维导图.png)
 
 #### 20190113-再也不怕记单词-by粟之.jpg
 ![20190113-再也不怕记单词-by粟之.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190113-再也不怕记单词-by粟之.jpg)

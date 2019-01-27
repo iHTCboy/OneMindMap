@@ -3,6 +3,10 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+
+#### 20190127-人工智能AI思维导图.png
+[mo-ai/mindmap-ai-cn: 人工智能相关思维导图（中文）](https://github.com/mo-ai/mindmap-ai-cn)
+
 #### 20190113-再也不怕记单词-by粟之.jpg
 [有什么相见恨晚的背单词方法？ - 知乎](https://www.zhihu.com/question/48040579/answer/489918135)
 
