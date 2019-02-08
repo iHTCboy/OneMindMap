@@ -8,6 +8,12 @@ A mind map for life
 
 <br>
 
+#### 20190201-中国人财务自由的九个阶段.JPEG
+![20190201-中国人财务自由的九个阶段.JPEG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190201-中国人财务自由的九个阶段.JPEG)
+
+#### 20190128-技术管理知识树.PNG
+![20190128-技术管理知识树.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190128-技术管理知识树.PNG)
+
 #### 20190127-人工智能AI思维导图.png
 ![20190127-人工智能AI思维导图.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190127-人工智能AI思维导图.png)
 

@@ -3,6 +3,8 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20190128-技术管理知识树.PNG
+[缺这项能力，做不了技术管理工作](https://mp.weixin.qq.com/s/z48y3wf0TGT4459ZrugL8A)
 
 #### 20190127-人工智能AI思维导图.png
 [mo-ai/mindmap-ai-cn: 人工智能相关思维导图（中文）](https://github.com/mo-ai/mindmap-ai-cn)
