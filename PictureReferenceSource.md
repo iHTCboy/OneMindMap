@@ -3,6 +3,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20190218-软件工程之美-by宝玉.JPG
+[极客时间 | 软件工程之美](https://time.geekbang.org/column/intro/158)
+
 #### 20190128-技术管理知识树.PNG
 [缺这项能力，做不了技术管理工作](https://mp.weixin.qq.com/s/z48y3wf0TGT4459ZrugL8A)
 

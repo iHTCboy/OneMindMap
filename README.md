@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 20190218-软件工程之美-by宝玉.JPG
+![20190218-软件工程之美-by宝玉.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190218-软件工程之美-by宝玉.JPG)
+
 #### 20190201-中国人财务自由的九个阶段.JPEG
 ![20190201-中国人财务自由的九个阶段.JPEG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190201-中国人财务自由的九个阶段.JPEG)
 
