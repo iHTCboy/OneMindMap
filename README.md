@@ -8,6 +8,18 @@ A mind map for life
 
 <br>
 
+#### 20190227-iOS多线程.png
+![20190227-iOS多线程.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190227-iOS多线程.png)
+
+#### 20190226-iOS学习路线RouteToiOS.jpg
+![20190226-iOS学习路线RouteToiOS.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190226-iOS学习路线RouteToiOS.jpg)
+
+#### 20190225-DebugTalk_Plus_Automated_Test_Platform.jpg
+![20190225-DebugTalk_Plus_Automated_Test_Platform.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190225-DebugTalk_Plus_Automated_Test_Platform.jpg)
+
+#### 20190224-git技术栈.PNG
+![20190224-git技术栈.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190224-git技术栈.PNG)
+
 #### 20190218-软件工程之美-by宝玉.JPG
 ![20190218-软件工程之美-by宝玉.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190218-软件工程之美-by宝玉.JPG)
 
