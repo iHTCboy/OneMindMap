@@ -3,6 +3,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20190302-技术学习进阶的三个阶段-以Qt为例.JPG
+安晓辉《程序员的成长课》 图2-5
+
 #### 20190226-iOS学习路线RouteToiOS.jpg
 [shaojiankui/iOS-Route: iOS学习路线 Route to iOS](https://github.com/shaojiankui/iOS-Route)
 

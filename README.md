@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 20190302-技术学习进阶的三个阶段-以Qt为例.JPG
+![20190302-技术学习进阶的三个阶段-以Qt为例.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190302-技术学习进阶的三个阶段-以Qt为例.JPG)
+
 #### 20190227-iOS多线程.png
 ![20190227-iOS多线程.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190227-iOS多线程.png)
 
