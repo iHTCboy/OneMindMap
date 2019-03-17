@@ -3,6 +3,24 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20190317-学习金字塔.png
+美国缅因州国家训练实验室 (National Training Laboratories) 基于研究，提出了一种现代学习方式的理论，用“学习金字塔”形象显示了采用不同学习方式的学习者两周后的平均学习内容留存率 (average retention rates)，并将学习方式分成了两类:被动学习和主动学习，后者更能促使学习者深入地理解和掌握学习内容。
+
+- 被动学习：
+    * 听讲（lecture)
+    * 阅读（Reading）
+    * 视听（Audiovisual）
+    * 演示（Demonstration）
+- 主动学习：
+    * 讨论（Discussion）
+    * 实践（Practice Doing）
+    * 教授给他人（Teach Others)
+
+[以创新教学模式促进课堂中的“主动学习”-教学研究](http://jxyj.ysu.edu.cn//oa/darticle.aspx?type=view&id=20150302)
+
+#### 20190317-二手房交易流程图.JPG
+by 《千万别说你懂买房》徐斌
+
 #### 20190306-8086的内部结构.JPG
 by《汇编语言简明教程》图1-2
 
