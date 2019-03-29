@@ -9,6 +9,15 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [(5条消息)Node体系及生态概览 - canfeit的专栏 - CSDN博客](https://blog.csdn.net/canfeit/article/details/82999393)
 
 
+
+#### 20190320-游戏开发入门常识.png
+- [主流游戏引擎分析 - 简书](https://www.jianshu.com/p/46ebfebc3451)
+
+
+#### 20190319-iOS知识体系.JPG
+- [iOS开发高手课](https://time.geekbang.org/column/intro/161)
+
+
 #### 20190317-学习金字塔.png
 美国缅因州国家训练实验室 (National Training Laboratories) 基于研究，提出了一种现代学习方式的理论，用“学习金字塔”形象显示了采用不同学习方式的学习者两周后的平均学习内容留存率 (average retention rates)，并将学习方式分成了两类:被动学习和主动学习，后者更能促使学习者深入地理解和掌握学习内容。
 
