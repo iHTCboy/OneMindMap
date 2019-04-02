@@ -8,6 +8,11 @@ A mind map for life
 
 <br>
 
+#### 20190402-iTerm2快捷键大全
+![20190402-iTerm2快捷键大全](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190402-iTerm2快捷键大全)
+
+
+#### 20190401-Node.js知识图谱.PNG
 ![20190401-Node.js知识图谱.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190401-Node.js知识图谱.PNG)
 
 #### 20190331-Node.js体系与生态.jpg
