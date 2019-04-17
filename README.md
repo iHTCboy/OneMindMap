@@ -45,7 +45,7 @@ A mind map for life
 ![20190321-人工智能技术图谱-机器学习.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190321-人工智能技术图谱-机器学习.jpg)
 ![20190321-人工智能技术图谱-人工神经网络.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190321-人工智能技术图谱-人工神经网络.jpg)
 ![20190321-人工智能技术图谱-深度学习.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190321-人工智能技术图谱-深度学习.jpg)
-![20190321-人工智能技术图谱-深度学习框架下的神经网络.jpg](https://github.com/iHTCboy/iGallery/raw/master/BlogImages/2019/03/20190321-人工智能技术图谱-深度学习框架下的神经网络.jpg)
+![20190321-人工智能技术图谱-深度学习框架下的神经网络.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190321-人工智能技术图谱-深度学习框架下的神经网络.jpg)
 ![20190321-人工智能技术图谱-深度学习之外的人工智能.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190321-人工智能技术图谱-深度学习之外的人工智能.jpg)
 ![20190321-人工智能技术图谱-数学基础.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190321-人工智能技术图谱-数学基础.jpg)
 ![20190321-人工智能技术图谱-应用场景.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190321-人工智能技术图谱-应用场景.jpg)
