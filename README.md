@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 20190418-胜任力模型.png
+![20190418-胜任力模型.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190418-胜任力模型.png)
+
 #### 20190417-胜任力模型-通用能力库.jpg
 ![20190417-胜任力模型-通用能力库.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190417-胜任力模型-通用能力库.jpg)
 
