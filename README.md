@@ -9,11 +9,11 @@ A mind map for life
 <br>
 
 
-#### 20190429-计算机组成原理知识地图-徐文浩.PNG
-![20190429-计算机组成原理知识地图-徐文浩.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190429-计算机组成原理知识地图-徐文浩.PNG)
+#### 20190429-计算机组成原理知识地图-徐文浩.JPG
+![20190429-计算机组成原理知识地图-徐文浩.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190429-计算机组成原理知识地图-徐文浩.JPG)
 
-#### 20190427-git-flow.JPG
-![20190427-git-flow.JPG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190427-git-flow.JPG)
+#### 20190427-git-flow.PNG
+![20190427-git-flow.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190427-git-flow.PNG)
 
 #### 20190418-胜任力模型.png
 ![20190418-胜任力模型.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190418-胜任力模型.png)
