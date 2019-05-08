@@ -4,6 +4,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 <br>
 
 
+#### 20190429-计算机组成原理知识地图-徐文浩.PNG
+- [深入浅出计算机组成原理 | 极客时间](https://time.geekbang.org/column/intro/170)
+
 
 #### 20190329-JavaScript前世与今生.jpg、20190330-JavaScript与Java的关系.jpg、20190331-Node.js体系与生态.jpg
 - [(5条消息)Node体系及生态概览 - canfeit的专栏 - CSDN博客](https://blog.csdn.net/canfeit/article/details/82999393)
