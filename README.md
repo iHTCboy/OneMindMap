@@ -9,6 +9,9 @@ A mind map for life
 <br>
 
 
+#### 20190527-哈佛大学15张逻辑图-说透了幸福与情商.jpg
+![20190527-哈佛大学15张逻辑图-说透了幸福与情商.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190527-哈佛大学15张逻辑图-说透了幸福与情商.jpg)
+
 #### 20190526-中国历史朝代顺序表、年表（完整版）.jpeg
 ![20190526-中国历史朝代顺序表、年表（完整版）.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190526-中国历史朝代顺序表、年表（完整版）.jpeg)
 
