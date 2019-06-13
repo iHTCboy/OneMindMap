@@ -3,6 +3,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20190613-格雷厄姆的分歧等级-Graham's_Hierarchy_of_Disagreement-zh-hans.png
+- ![File:Graham's Hierarchy of Disagreement-zh-hans.svg - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/File:Graham%27s_Hierarchy_of_Disagreement-zh-hans.svg)
+
 
 #### 20190429-计算机组成原理知识地图-徐文浩.PNG
 - [深入浅出计算机组成原理 | 极客时间](https://time.geekbang.org/column/intro/170)

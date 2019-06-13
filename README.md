@@ -9,6 +9,9 @@ A mind map for life
 <br>
 
 
+#### 20190613-格雷厄姆的分歧等级-Graham's_Hierarchy_of_Disagreement-zh-hans.png
+![20190613-格雷厄姆的分歧等级-Graham's_Hierarchy_of_Disagreement-zh-hans.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190613-格雷厄姆的分歧等级-Graham's_Hierarchy_of_Disagreement-zh-hans.png)
+
 #### 20190527-哈佛大学15张逻辑图-说透了幸福与情商.jpg
 ![20190527-哈佛大学15张逻辑图-说透了幸福与情商.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190527-哈佛大学15张逻辑图-说透了幸福与情商.jpg)
 
