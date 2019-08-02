@@ -8,6 +8,8 @@ A mind map for life
 
 <br>
 
+#### 20190802-短视频从业者必备指南2.0-最映画.jpeg
+![20190802-短视频从业者必备指南2.0-最映画.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190802-短视频从业者必备指南2.0-最映画.jpeg)
 
 #### 20190705-腾讯开源路线图-堵俊平.PNG
 ![20190705-腾讯开源路线图-堵俊平.PNG](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190705-腾讯开源路线图-堵俊平.PNG)
