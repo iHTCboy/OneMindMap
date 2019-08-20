@@ -4,6 +4,7 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 <br>
 
 #### 20190820-帮助同事表现卓越的正确方法.jpg
+- [The Right Way to Help Colleagues Excel](https://hbr.org/visual-library/2019/03/the-right-way-to-help-colleagues-excel)
 - [A Country Doctor Reads: March 16, 2019 | A Country Doctor Writes:](https://acountrydoctorwrites.blog/2019/03/16/a-country-doctor-reads-march-16-2019/)
 - [The Right Way to Help Colleagues Excel | Cyberlabe](https://cyberlabe.tumblr.com/post/184083598328/the-right-way-to-help-colleagues-excel)
 
