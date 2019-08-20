@@ -8,6 +8,10 @@ A mind map for life
 
 <br>
 
+#### 20190820-帮助同事表现卓越的正确方法.png
+![20190820-帮助同事表现卓越的正确方法.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190820-帮助同事表现卓越的正确方法.png)
+![20190820-帮助同事表现卓越的正确方法.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190820-帮助同事表现卓越的正确方法.jpg)
+
 #### 20190802-短视频从业者必备指南2.0-最映画.jpeg
 ![20190802-短视频从业者必备指南2.0-最映画.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190802-短视频从业者必备指南2.0-最映画.jpeg)
 

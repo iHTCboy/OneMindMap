@@ -3,6 +3,11 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20190820-帮助同事表现卓越的正确方法.jpg
+- [A Country Doctor Reads: March 16, 2019 | A Country Doctor Writes:](https://acountrydoctorwrites.blog/2019/03/16/a-country-doctor-reads-march-16-2019/)
+- [The Right Way to Help Colleagues Excel | Cyberlabe](https://cyberlabe.tumblr.com/post/184083598328/the-right-way-to-help-colleagues-excel)
+
+
 #### 20190613-格雷厄姆的分歧等级-Graham's_Hierarchy_of_Disagreement-zh-hans.png
 - [File:Graham's Hierarchy of Disagreement-zh-hans.svg - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/File:Graham%27s_Hierarchy_of_Disagreement-zh-hans.svg)
 
