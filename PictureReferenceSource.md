@@ -3,6 +3,16 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+
+#### 20190825-心流-Flow
+- [心流理论 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%BF%83%E6%B5%81%E7%90%86%E8%AB%96)
+- [Mihaly Csikszentmihalyi : 談「心流」 | TED Talk](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow?language=zh-tw)
+- [塑造【心流】体验，学习产品也能让用户上瘾 – 极创ui设计宝库](https://ec256.com/08/248.html)
+- [和团队谈个人成长](https://www.weibo.com/ttarticle/p/show?id=2309404300456787613157)
+- [頂尖高手如何持續精進、突破自我，又能保持一派輕鬆？我從《一流的人如何保持顛峰》體會到的三件事 - 職人簡報與商業思維 - Medium](https://link.medium.com/MEL5Hb6rrZ)
+- [如何让学习像游戏一样使人废寝忘食？_网易订阅](http://dy.163.com/v2/article/detail/EG7534PK05418KDX.html)
+
+
 #### 20190820-帮助同事表现卓越的正确方法.jpg
 - [The Right Way to Help Colleagues Excel](https://hbr.org/visual-library/2019/03/the-right-way-to-help-colleagues-excel)
 - [A Country Doctor Reads: March 16, 2019 | A Country Doctor Writes:](https://acountrydoctorwrites.blog/2019/03/16/a-country-doctor-reads-march-16-2019/)

@@ -8,6 +8,12 @@ A mind map for life
 
 <br>
 
+
+#### 20190825-心流-Flow
+![20190825-心流-Flow-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190825-心流-Flow-01.png)
+![20190825-心流-Flow-02.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190825-心流-Flow-02.jpg)
+![20190825-心流-Flow-03.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190825-心流-Flow-03.jpeg)
+
 #### 20190820-帮助同事表现卓越的正确方法.png
 ![20190820-帮助同事表现卓越的正确方法.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190820-帮助同事表现卓越的正确方法.png)
 ![20190820-帮助同事表现卓越的正确方法.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190820-帮助同事表现卓越的正确方法.jpg)
