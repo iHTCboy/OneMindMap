@@ -3,6 +3,11 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+#### 20191020-关注圈&影响圈模型
+- [先改變自己，才能擴大影響力、改變他人！ | 經理人](https://www.managertoday.com.tw/articles/view/19295)
+- [關注圈 vs 影響圈，聚焦在哪一個、決定你的成就！ | 經理人](https://www.managertoday.com.tw/columns/view/57832)
+- [无论你是积极者还是消极者，两个圈改变你的未来 - 知乎](https://zhuanlan.zhihu.com/p/73610137)
+
 
 #### 20190825-心流-Flow
 - [心流理论 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E5%BF%83%E6%B5%81%E7%90%86%E8%AB%96)
@@ -11,6 +16,7 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [和团队谈个人成长](https://www.weibo.com/ttarticle/p/show?id=2309404300456787613157)
 - [頂尖高手如何持續精進、突破自我，又能保持一派輕鬆？我從《一流的人如何保持顛峰》體會到的三件事 - 職人簡報與商業思維 - Medium](https://link.medium.com/MEL5Hb6rrZ)
 - [如何让学习像游戏一样使人废寝忘食？_网易订阅](http://dy.163.com/v2/article/detail/EG7534PK05418KDX.html)
+
 
 
 #### 20190820-帮助同事表现卓越的正确方法.jpg

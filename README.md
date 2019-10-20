@@ -9,6 +9,12 @@ A mind map for life
 <br>
 
 
+#### 20191020-关注圈&影响圈模型
+![20191020-关注圈&影响圈模型-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191020-关注圈&影响圈模型-01.png)
+![20191020-关注圈&影响圈模型-02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191020-关注圈&影响圈模型-02.png)
+![20191020-关注圈&影响圈模型-03.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191020-关注圈&影响圈模型-03.png)
+![20191020-关注圈&影响圈模型-04.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191020-关注圈&影响圈模型-04.png)
+
 #### 20190825-心流-Flow
 ![20190825-心流-Flow-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190825-心流-Flow-01.png)
 ![20190825-心流-Flow-02.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190825-心流-Flow-02.jpg)
