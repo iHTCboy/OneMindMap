@@ -3,6 +3,13 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+
+
+
+#### 20191021-高效能人士的七个习惯
+- [高效能人士的七个习惯 | 读书笔记 - 高亚球的博客 | GaoYaQiu Blog](https://www.gaoyaqiu.com/post/excerpt/the-7-habits-of-highly-effective-people/)
+
+
 #### 20191020-关注圈&影响圈模型
 - [先改變自己，才能擴大影響力、改變他人！ | 經理人](https://www.managertoday.com.tw/articles/view/19295)
 - [關注圈 vs 影響圈，聚焦在哪一個、決定你的成就！ | 經理人](https://www.managertoday.com.tw/columns/view/57832)

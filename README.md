@@ -9,6 +9,20 @@ A mind map for life
 <br>
 
 
+#### 20191021-高效能人士的七个习惯
+![20191021-01-第一章《由内而外全面造就自己》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-01-第一章《由内而外全面造就自己》.jpg)
+![20191021-02-第二章《七个习惯概论》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-02-第二章《七个习惯概论》.jpg)
+![20191021-03-第三章《习惯——积极主动》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-03-第三章《习惯——积极主动》.jpg)
+![20191021-04-第四章《习惯二——以终为始》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-04-第四章《习惯二——以终为始》.jpg)
+![20191021-05-第五章《习惯三——要事第一》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-05-第五章《习惯三——要事第一》.jpg)
+![20191021-06-第六章《人际关系的本质》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-06-第六章《人际关系的本质》.jpg)
+![20191021-07-第七章《习惯四——双赢思维》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-07-第七章《习惯四——双赢思维》.jpg)
+![20191021-08-第八章《习惯五——知彼解己》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-08-第八章《习惯五——知彼解己》.jpg)
+![20191021-09-第九章《习惯六——统合综效》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-09-第九章《习惯六——统合综效》.jpg)
+![20191021-10-第十章《习惯七——不断更新》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-10-第十章《习惯七——不断更新》.jpg)
+![20191021-11-第十一章《再论由内而外造就自己》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-11-第十一章《再论由内而外造就自己》.jpg)
+
+
 #### 20191020-关注圈&影响圈模型
 ![20191020-关注圈&影响圈模型-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191020-关注圈&影响圈模型-01.png)
 ![20191020-关注圈&影响圈模型-02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191020-关注圈&影响圈模型-02.png)
