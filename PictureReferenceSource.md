@@ -3,7 +3,13 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 <br>
 
+- [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+
+#### The Rule of 2/3（2/3规则？）
+- [The Rule of 2/3 | Black Rhino Marketing Group](http://blackrhinomarketinggroup.com/tag/pick-two/)
+- [Fast, Good or Cheap - Choose any two! (Here's how)](https://dothethings.com/fast-good-or-cheap-pick-any-two/)
+- [Good, Fast, Cheap: You Can Only Pick Two! - Pyragraph](http://www.pyragraph.com/2013/05/good-fast-cheap-you-can-only-pick-two/)
 
 
 #### 20191021-高效能人士的七个习惯
