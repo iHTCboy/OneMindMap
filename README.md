@@ -9,6 +9,19 @@ A mind map for life
 <br>
 
 
+#### ​孙子兵法-三十六计谋略全书
+![20191117-01-孙子兵法-三十六计谋略全书.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191117-01-孙子兵法-三十六计谋略全书.png)
+![20191117-02-三十六计-古为今用.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191117-02-三十六计-古为今用.png)
+
+
+#### The Rule of 2/3（2/3规则？）
+![20191115-cheap-fast-good-choose-two-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-01.png)
+![20191115-cheap-fast-good-choose-two-02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-02.png)
+![20191115-cheap-fast-good-choose-two-03.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-03.png)
+![20191115-cheap-fast-good-choose-two-04.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-04.png)
+![20191115-cheap-fast-good-choose-two-05.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-05.png)
+
+
 #### 20191021-高效能人士的七个习惯
 ![20191021-01-第一章《由内而外全面造就自己》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-01-第一章《由内而外全面造就自己》.jpg)
 ![20191021-02-第二章《七个习惯概论》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191021-02-第二章《七个习惯概论》.jpg)
