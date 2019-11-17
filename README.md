@@ -9,12 +9,12 @@ A mind map for life
 <br>
 
 
-#### ​孙子兵法-三十六计谋略全书
+#### ​20191117-孙子兵法-三十六计谋略全书
 ![20191117-01-孙子兵法-三十六计谋略全书.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191117-01-孙子兵法-三十六计谋略全书.png)
 ![20191117-02-三十六计-古为今用.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191117-02-三十六计-古为今用.png)
 
 
-#### The Rule of 2/3（2/3规则？）
+#### 20191115-The Rule of 2/3（2/3规则？）
 ![20191115-cheap-fast-good-choose-two-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-01.png)
 ![20191115-cheap-fast-good-choose-two-02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-02.png)
 ![20191115-cheap-fast-good-choose-two-03.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191115-cheap-fast-good-choose-two-03.png)

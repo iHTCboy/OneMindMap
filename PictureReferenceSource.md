@@ -6,12 +6,14 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
-#### 孙子兵法-三十六计谋略全书
+
+#### 20191117-孙子兵法-三十六计谋略全书
 - [孙子兵法三十六计谋略全书思维导图](https://www.edrawsoft.cn/mindmaster-sunzibingfa/)
 - [《孙子兵法·三十六计谋略大全》读书笔记](http://www.chanpin100.com/article/110034)
 - [三十六计 古为今用——《孙子兵法 三十六计》节选 ](https://mm.edrawsoft.cn/template/4384)
 
-#### The Rule of 2/3（2/3规则？）
+
+#### 20191115-The Rule of 2/3（2/3规则？）
 - [The Rule of 2/3 | Black Rhino Marketing Group](http://blackrhinomarketinggroup.com/tag/pick-two/)
 - [Fast, Good or Cheap - Choose any two! (Here's how)](https://dothethings.com/fast-good-or-cheap-pick-any-two/)
 - [Good, Fast, Cheap: You Can Only Pick Two! - Pyragraph](http://www.pyragraph.com/2013/05/good-fast-cheap-you-can-only-pick-two/)
