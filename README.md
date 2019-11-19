@@ -9,7 +9,7 @@ A mind map for life
 <br>
 
 
-#### 小罗说色彩系列#3分钟色彩速成班#
+#### 小罗说色彩系列《3分钟色彩速成班》
 ![20191118-小罗说色彩系列1A.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191118-小罗说色彩系列1A.jpg)
 ![20191118-小罗说色彩系列1B.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191118-小罗说色彩系列1B.jpg)
 ![20191118-小罗说色彩系列2A.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191118-小罗说色彩系列2A.jpg)

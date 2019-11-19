@@ -6,7 +6,7 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
-#### 小罗说色彩系列 #3分钟色彩速成班#
+#### 小罗说色彩系列《3分钟色彩速成班》
 [小罗说色彩的微博_微博](https://weibo.com/u/1802773995)
 
 
@@ -39,7 +39,6 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [和团队谈个人成长](https://www.weibo.com/ttarticle/p/show?id=2309404300456787613157)
 - [頂尖高手如何持續精進、突破自我，又能保持一派輕鬆？我從《一流的人如何保持顛峰》體會到的三件事 - 職人簡報與商業思維 - Medium](https://link.medium.com/MEL5Hb6rrZ)
 - [如何让学习像游戏一样使人废寝忘食？_网易订阅](http://dy.163.com/v2/article/detail/EG7534PK05418KDX.html)
-
 
 
 #### 20190820-帮助同事表现卓越的正确方法.jpg
