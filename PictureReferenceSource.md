@@ -6,6 +6,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
+#### 小罗说色彩系列 #3分钟色彩速成班#
+[小罗说色彩的微博_微博](https://weibo.com/u/1802773995)
+
 
 #### 20191117-孙子兵法-三十六计谋略全书
 - [孙子兵法三十六计谋略全书思维导图](https://www.edrawsoft.cn/mindmaster-sunzibingfa/)
