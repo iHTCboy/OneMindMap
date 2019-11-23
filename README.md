@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 互联网内容生产者：UGC PGC OGC
+![20191123-UGC&PGC&OGC.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191123-UGC&PGC&OGC.png)
+
 
 #### 小罗说色彩系列《3分钟色彩速成班》
 ![20191118-小罗说色彩系列1A.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191118-小罗说色彩系列1A.jpg)

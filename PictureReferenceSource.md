@@ -5,9 +5,12 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+#### 互联网内容生产者：UGC PGC OGC
+- [UGC 、 PGC 、OGC ，傻傻分不清？ - 简书](https://www.jianshu.com/p/76c2ffe17e3a)
+
 
 #### 小罗说色彩系列《3分钟色彩速成班》
-[小罗说色彩的微博_微博](https://weibo.com/u/1802773995)
+- [小罗说色彩的微博_微博](https://weibo.com/u/1802773995)
 
 
 #### 20191117-孙子兵法-三十六计谋略全书
