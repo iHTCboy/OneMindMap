@@ -5,6 +5,12 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+
+
+#### 消费者剩余和生产者剩余
+- [经济剩余 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%B6%93%E6%BF%9F%E5%89%A9%E9%A4%98)
+
+
 #### 互联网内容生产者：UGC PGC OGC
 - [UGC 、 PGC 、OGC ，傻傻分不清？ - 简书](https://www.jianshu.com/p/76c2ffe17e3a)
 

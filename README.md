@@ -8,6 +8,11 @@ A mind map for life
 
 <br>
 
+
+#### 消费者剩余和生产者剩余
+![20191124-消费者剩余和生产者剩余.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191124-消费者剩余和生产者剩余.png)
+
+
 #### 互联网内容生产者：UGC PGC OGC
 ![20191123-UGC&PGC&OGC.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191123-UGC&PGC&OGC.png)
 
