@@ -9,15 +9,15 @@ A mind map for life
 <br>
 
 
-#### 消费者剩余和生产者剩余
+#### 20191124-消费者剩余和生产者剩余
 ![20191124-消费者剩余和生产者剩余.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191124-消费者剩余和生产者剩余.png)
 
 
-#### 互联网内容生产者：UGC PGC OGC
+#### 20191123-互联网内容生产者：UGC PGC OGC
 ![20191123-UGC&PGC&OGC.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191123-UGC&PGC&OGC.png)
 
 
-#### 小罗说色彩系列《3分钟色彩速成班》
+#### 20191118-小罗说色彩系列《3分钟色彩速成班》
 ![20191118-小罗说色彩系列1A.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191118-小罗说色彩系列1A.jpg)
 ![20191118-小罗说色彩系列1B.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191118-小罗说色彩系列1B.jpg)
 ![20191118-小罗说色彩系列2A.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191118-小罗说色彩系列2A.jpg)
