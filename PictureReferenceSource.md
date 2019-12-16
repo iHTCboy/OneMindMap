@@ -6,6 +6,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
+#### 20191216-主流开源许可协议比较【MPL,MIT,Apache,GPL,BSD】.jpg
+- [杨锴同学的微博_微博](https://www.weibo.com/kkyang?is_all=1)
+
 
 #### 消费者剩余和生产者剩余
 - [经济剩余 - 维基百科，自由的百科全书](https://zh.wikipedia.org/wiki/%E7%B6%93%E6%BF%9F%E5%89%A9%E9%A4%98)

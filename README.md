@@ -9,6 +9,10 @@ A mind map for life
 <br>
 
 
+#### 20191216-主流开源许可协议比较【MPL,MIT,Apache,GPL,BSD】.jpg
+![20191124-消费者剩余和生产者剩余.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191216-主流开源许可协议比较【MPL,MIT,Apache,GPL,BSD】.jpg)
+
+
 #### 20191124-消费者剩余和生产者剩余
 ![20191124-消费者剩余和生产者剩余.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191124-消费者剩余和生产者剩余.png)
 
