@@ -8,6 +8,8 @@ A mind map for life
 
 <br>
 
+#### 20191231-《开口就能说重点》.jpg
+![20191223-AARRR漏斗模型.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191231-《开口就能说重点》.jpg)
 
 #### 20191223-AARRR漏斗模型.png
 ![20191223-AARRR漏斗模型.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191223-AARRR漏斗模型.png)
