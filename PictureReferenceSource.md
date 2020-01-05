@@ -6,6 +6,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
+#### 20200105-五星图-一个家庭必须拥有的5个账户.png
+- [一个家庭必须拥有的5个账户](https://mp.weixin.qq.com/s/MdL-PPwEuLb6Ico0UmQRag)
+
 #### 20191223-AARRR漏斗模型.png
 - [重要的产品分析模型：AARRR模型 - 知乎](https://zhuanlan.zhihu.com/p/32696403)
 - [增长黑客模型AARRR已过时，RARRA才是真正的指数级增长模型 | 产品壹佰](http://www.chanpin100.com/article/108572)

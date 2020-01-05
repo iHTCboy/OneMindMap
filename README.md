@@ -8,8 +8,15 @@ A mind map for life
 
 <br>
 
+
+
+#### 20200105-五星图-一个家庭必须拥有的5个账户.png
+![20200105-五星图-一个家庭必须拥有的5个账户.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200105-五星图-一个家庭必须拥有的5个账户.png)
+
+
 #### 20191231-《开口就能说重点》.jpg
-![20191223-AARRR漏斗模型.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191231-《开口就能说重点》.jpg)
+![20191231-《开口就能说重点》.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191231-《开口就能说重点》.jpg)
+
 
 #### 20191223-AARRR漏斗模型.png
 ![20191223-AARRR漏斗模型.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20191223-AARRR漏斗模型.png)
