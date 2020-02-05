@@ -8,6 +8,8 @@ A mind map for life
 
 <br>
 
+#### 20200205-软技能学习路线图.png
+![20200205-软技能学习路线图.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200205-软技能学习路线图.png)
 
 
 #### 20200105-五星图-一个家庭必须拥有的5个账户.png
