@@ -5,6 +5,8 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+#### 20200209-组织的人员结构菱形.jpeg
+- [少讲大道理，多解决小问题](https://mp.weixin.qq.com/s/j1MtPn_2YwPhiLCJHZ4GYQ)
 
 #### 20200105-五星图-一个家庭必须拥有的5个账户.png
 - [一个家庭必须拥有的5个账户](https://mp.weixin.qq.com/s/MdL-PPwEuLb6Ico0UmQRag)

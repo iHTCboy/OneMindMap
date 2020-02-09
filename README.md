@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 20200209-组织的人员结构菱形.jpeg
+![20200209-组织的人员结构菱形.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200209-组织的人员结构菱形.jpeg)
+
 #### 20200205-软技能学习路线图.png
 ![20200205-软技能学习路线图.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200205-软技能学习路线图.png)
 
