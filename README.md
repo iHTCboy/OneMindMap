@@ -8,6 +8,12 @@ A mind map for life
 
 <br>
 
+#### 20200315-如何选择职业道路.jpg
+
+![20200315-HowToChooseACareer.gif](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200315-HowToChooseACareer.gif)
+![20200315-Ikigaip：The_Japanese_Concept_Of_Finding_Purpose_In_Life.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200315-Ikigaip：The_Japanese_Concept_Of_Finding_Purpose_In_Life.png)
+![20200315-如何选择职业道路.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200315-如何选择职业道路.jpg)
+
 #### 20200209-组织的人员结构菱形.jpeg
 ![20200209-组织的人员结构菱形.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200209-组织的人员结构菱形.jpeg)
 

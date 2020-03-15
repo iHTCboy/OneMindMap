@@ -5,6 +5,15 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+
+#### 20200315-如何选择职业道路.jpg
+- [Abhinav Philosopher: How to choose a career](http://reason.abhinav.ac.in/2014/06/how-to-choose-career.html)
+- [Ikigai: The Japanese Concept Of Finding Purpose In Life : Infographics](https://www.reddit.com/r/Infographics/comments/cakdi7/ikigai_the_japanese_concept_of_finding_purpose_in/)
+- [How to Choose a Career Path | 梦 里 休 闲](https://mfreespirit.wordpress.com/2013/07/12/3303/)
+- [how do I choose my career? Introducing Ikigai! ABC academy.](https://abc-businessacademy.com/how-do-i-choose-my-career/)
+- [25岁做些什么，可以让职场人终身受益 - 知乎](https://zhuanlan.zhihu.com/p/25618984)
+
+
 #### 20200209-组织的人员结构菱形.jpeg
 - [少讲大道理，多解决小问题](https://mp.weixin.qq.com/s/j1MtPn_2YwPhiLCJHZ4GYQ)
 
