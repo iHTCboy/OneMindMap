@@ -228,7 +228,7 @@ A mind map for life
 #### 20190113-再也不怕记单词-by粟之.jpg
 ![20190113-再也不怕记单词-by粟之.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20190113-再也不怕记单词-by粟之.jpg)
 
-#### 2018-年终总结PPT该怎么写？.png
+#### 201812-年终总结PPT该怎么写？.png
 ![2018-年终总结PPT该怎么写？.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/2018-年终总结PPT该怎么写？.png)
 
 #### 20181229_程序开发者能力金字塔by安晓辉.jpeg
