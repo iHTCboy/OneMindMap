@@ -6,6 +6,12 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
+
+#### 20200426-程序员路线图（Developer Roadmaps）
+- [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
+- [Roadmaps to becoming a modern developer](https://roadmap.sh/)
+
+
 #### 20200315-如何选择职业道路.jpg
 - [Abhinav Philosopher: How to choose a career](http://reason.abhinav.ac.in/2014/06/how-to-choose-career.html)
 - [Ikigai: The Japanese Concept Of Finding Purpose In Life : Infographics](https://www.reddit.com/r/Infographics/comments/cakdi7/ikigai_the_japanese_concept_of_finding_purpose_in/)
