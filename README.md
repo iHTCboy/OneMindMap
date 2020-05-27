@@ -8,6 +8,20 @@ A mind map for life
 
 <br>
 
+
+####  20200527-不靠谱家长 VS 普通家长 VS 靠谱家长
+![20200527-不靠谱家长VS普通家长VS靠谱家长-1.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-1.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-2.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-2.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-3.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-3.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-4.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-4.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-5.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-5.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-6.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-6.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-7.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-7.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-8.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-8.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-9.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-9.jpg)
+![20200527-不靠谱家长VS普通家长VS靠谱家长-10.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-10.jpg)
+
+
 #### 20200426-程序员路线图（Developer Roadmaps）
 ![20200426-frontend-前端.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200426-frontend-前端.png)
 ![20200426-backend-后端.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200426-backend-后端.png)
