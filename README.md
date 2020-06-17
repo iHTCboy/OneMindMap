@@ -8,6 +8,8 @@ A mind map for life
 
 <br>
 
+#### 20200617-中国人口红利和人口老龄化.jpg
+![20200617-中国人口红利和人口老龄化.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200617-中国人口红利和人口老龄化.jpg)
 
 ####  20200527-不靠谱家长 VS 普通家长 VS 靠谱家长
 ![20200527-不靠谱家长VS普通家长VS靠谱家长-1.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200527-不靠谱家长VS普通家长VS靠谱家长-1.jpg)

@@ -6,6 +6,9 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
+#### 20200617-中国人口红利和人口老龄化.jpg
+- [人口红利&人口老龄化](https://mp.weixin.qq.com/s/oB94i_AgT4Oie3kNam0Ong)
+
 
 #### 20200426-程序员路线图（Developer Roadmaps）
 - [kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
