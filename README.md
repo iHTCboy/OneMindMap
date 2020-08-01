@@ -8,6 +8,10 @@ A mind map for life
 
 <br>
 
+#### 20200801-财务自由的本质
+![20200801-财务自由的本质-1.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200801-财务自由的本质-1.jpeg)
+![20200801-财务自由的本质-2.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200801-财务自由的本质-2.jpeg)
+
 #### 20200617-中国人口红利和人口老龄化.jpg
 ![20200617-中国人口红利和人口老龄化.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200617-中国人口红利和人口老龄化.jpg)
 
