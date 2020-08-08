@@ -8,6 +8,14 @@ A mind map for life
 
 <br>
 
+#### 20200809-Profit vs. Growth (利润与增长)
+![20200809-Profitvs.Growth-利润与增长01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200809-Profitvs.Growth-利润与增长01.png)
+![20200809-Profitvs.Growth-利润与增长02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200809-Profitvs.Growth-利润与增长02.png)
+
+
+#### 20200808-CAP理论.png
+![20200808-CAP理论.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200808-CAP理论.png)
+
 #### 20200801-财务自由的本质
 ![20200801-财务自由的本质-1.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200801-财务自由的本质-1.jpeg)
 ![20200801-财务自由的本质-2.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200801-财务自由的本质-2.jpeg)

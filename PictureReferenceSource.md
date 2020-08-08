@@ -5,6 +5,10 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+#### 2020-08-09-Profitvs.Growth-利润与增长
+- [Profit vs. Growth: What are the differences? - Loizou&Co](https://loizouco.com/profit-vs-growth-what-are-the-differences)
+- [Andrew Gordon Blog | Our Disruptive Economy | Talkmarkets - Page 3](https://talkmarkets.com/content/us-markets/our-disruptive-economy?post=71282&page=3)
+
 
 #### 20200617-中国人口红利和人口老龄化.jpg
 - [人口红利&人口老龄化](https://mp.weixin.qq.com/s/oB94i_AgT4Oie3kNam0Ong)
