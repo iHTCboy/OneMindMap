@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 20200822-张小龙2019演讲.png
+![20200822-张小龙2019演讲.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200822-张小龙2019演讲.png)
+
 #### 20200809-Profit vs. Growth (利润与增长)
 ![20200809-Profitvs.Growth-利润与增长01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200809-Profitvs.Growth-利润与增长01.png)
 ![20200809-Profitvs.Growth-利润与增长02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200809-Profitvs.Growth-利润与增长02.png)

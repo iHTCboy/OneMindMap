@@ -5,6 +5,15 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+
+#### 张小龙演讲笔记 (4小时)
+- [2020 - 张小龙微信公开课PRO演讲：信息互联的7个思考](https://mp.weixin.qq.com/s/ao67Iyp3YkhGAhaG4rk50g)
+- [官方最完整版：张小龙微信公开课超时演讲，总结微信8年](https://mp.weixin.qq.com/s/pPdGK1Uf35E3AODgv1ZMLg)
+- [视频 | 张小龙首次公开演讲，谈微信四大价值观](https://mp.weixin.qq.com/s/PneXi29a1GHg12GMZOP0pw)
+- [2014 - 微信公开课PRO版张小龙演讲全文](https://mp.weixin.qq.com/s/3FeuEaK8zezAPw_04pAvpw)
+- [《微信背后的产品观》- 张小龙.pdf](https://github.com/iHTCboy/iDocuments/blob/master/Products/%E3%80%8A%E5%BE%AE%E4%BF%A1%E8%83%8C%E5%90%8E%E7%9A%84%E4%BA%A7%E5%93%81%E8%A7%82%E3%80%8B-%20%E5%BC%A0%E5%B0%8F%E9%BE%99.pdf)
+
+
 #### 2020-08-09-Profitvs.Growth-利润与增长
 - [Profit vs. Growth: What are the differences? - Loizou&Co](https://loizouco.com/profit-vs-growth-what-are-the-differences)
 - [Andrew Gordon Blog | Our Disruptive Economy | Talkmarkets - Page 3](https://talkmarkets.com/content/us-markets/our-disruptive-economy?post=71282&page=3)
