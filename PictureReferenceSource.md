@@ -5,6 +5,10 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+#### 20200926-学习与机器学习.jpeg
+- [【学习观4.5】你以为这些“学习方法”是从教育理论而来？- bilibili](https://www.bilibili.com/video/BV1Mt411U7eG)
+- [学习观4.5：这些学习方法从何而来？ - 知乎](https://zhuanlan.zhihu.com/p/47322792)
+
 
 #### 张小龙演讲笔记 (4小时)
 - [2020 - 张小龙微信公开课PRO演讲：信息互联的7个思考](https://mp.weixin.qq.com/s/ao67Iyp3YkhGAhaG4rk50g)

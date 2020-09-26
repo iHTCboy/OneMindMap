@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 20200926-学习与机器学习.jpeg
+![20200926-学习与机器学习.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200926-学习与机器学习.jpeg)
+
 #### 20200822-张小龙2019演讲.png
 ![20200822-张小龙2019演讲.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200822-张小龙2019演讲.png)
 
