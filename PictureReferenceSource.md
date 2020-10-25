@@ -5,6 +5,11 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+#### 20201025-一百种促销方案.png
+- [零售业100个创意促销方案 详细方案 - 百度文库](https://wenku.baidu.com/view/4aefd535ee06eff9aef8072e.html)
+- [百种促销主题及其目的](https://mubu.com/doc/explore/22555)
+
+
 #### 20200926-学习与机器学习.jpeg
 - [【学习观4.5】你以为这些“学习方法”是从教育理论而来？- bilibili](https://www.bilibili.com/video/BV1Mt411U7eG)
 - [学习观4.5：这些学习方法从何而来？ - 知乎](https://zhuanlan.zhihu.com/p/47322792)

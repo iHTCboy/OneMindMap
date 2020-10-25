@@ -8,6 +8,9 @@ A mind map for life
 
 <br>
 
+#### 20201025-一百种促销方案.png
+![20201025-一百种促销方案.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201025-一百种促销方案.png)
+
 #### 20200926-学习与机器学习.jpeg
 ![20200926-学习与机器学习.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20200926-学习与机器学习.jpeg)
 
