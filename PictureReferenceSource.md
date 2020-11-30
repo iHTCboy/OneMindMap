@@ -5,6 +5,13 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+#### 20201129-洛伦兹曲线和基尼系数
+- [基尼系数 - 维基百科](https://zh.wikipedia.org/wiki/基尼系数) 
+- [基尼系数- 百度百科](https://baike.baidu.com/item/基尼系数)
+- [香港、台湾和大陆，哪里贫富差距大？李永乐老师讲基尼系数_哔哩哔哩-bilibili](https://www.bilibili.com/video/BV17J41137u4)
+- [2003-2016年全国居民人均可支配收入基尼系数 —— 中华人民共和国国家统计局](http://www.stats.gov.cn/ztjc/zdtjgz/yblh/zysj/201710/t20171010_1540710.html)
+
+
 #### 20201025-一百种促销方案.png
 - [零售业100个创意促销方案 详细方案 - 百度文库](https://wenku.baidu.com/view/4aefd535ee06eff9aef8072e.html)
 - [百种促销主题及其目的](https://mubu.com/doc/explore/22555)
