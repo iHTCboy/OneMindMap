@@ -9,8 +9,8 @@ A mind map for life
 <br>
 
 #### 20201129-洛伦兹曲线和基尼系数
-- ![20201129-洛伦兹曲线和基尼系数-01.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201129-洛伦兹曲线和基尼系数-01.jpeg)
-- ![20201129-洛伦兹曲线和基尼系数-01.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201129-洛伦兹曲线和基尼系数-01.jpeg)
+![20201129-洛伦兹曲线和基尼系数-01.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201129-洛伦兹曲线和基尼系数-01.jpeg)
+![20201129-洛伦兹曲线和基尼系数-01.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201129-洛伦兹曲线和基尼系数-01.jpeg)
 
 #### 20201025-一百种促销方案.png
 ![20201025-一百种促销方案.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201025-一百种促销方案.png)
