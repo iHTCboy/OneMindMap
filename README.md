@@ -8,6 +8,19 @@ A mind map for life
 
 <br>
 
+#### 20210101-如何高效学习
+![20210101-如何高效学习-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-01.png)
+![20210101-如何高效学习-02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-02.png)
+![20210101-如何高效学习-03.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-03.png)
+![20210101-如何高效学习-04.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-04.png)
+![20210101-如何高效学习-05.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-05.png)
+![20210101-如何高效学习-06.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-06.png)
+![20210101-如何高效学习-07.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-07.png)
+![20210101-如何高效学习-08.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-08.png)
+![20210101-如何高效学习-09.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-09.png)
+![20210101-如何高效学习-10.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-10.png)
+
+
 #### 20201129-洛伦兹曲线和基尼系数
 ![20201129-洛伦兹曲线和基尼系数-01.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201129-洛伦兹曲线和基尼系数-01.jpeg)
 ![20201129-洛伦兹曲线和基尼系数-01.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20201129-洛伦兹曲线和基尼系数-01.jpeg)

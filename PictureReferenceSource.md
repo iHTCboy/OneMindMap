@@ -5,6 +5,10 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+#### 20210101-如何高效学习
+- [强烈推荐：用10张竖屏思维导图，读懂《如何高效学习》 - 知乎](https://zhuanlan.zhihu.com/p/92731082)
+
+
 #### 20201129-洛伦兹曲线和基尼系数
 - [基尼系数 - 维基百科](https://zh.wikipedia.org/wiki/基尼系数) 
 - [基尼系数- 百度百科](https://baike.baidu.com/item/基尼系数)
