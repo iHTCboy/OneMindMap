@@ -5,6 +5,12 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+### 20220912-微笑曲线（Smiling Curve）
+- [Smiling curve - Wikipedia](https://en.wikipedia.org/wiki/Smiling_curve)
+- [Acer's Stan Shih: Empowering Technology - Making Your Life Easier](https://web.archive.org/web/20061018060052/http://global.acer.com/about/news.asp?id=6388)
+- [China: Wrong part of the smiling curve](https://web.archive.org/web/20021003135853/http://www.atimes.com/atimes/China/DJ04Ad01.html)
+- [微笑曲线（Smiling curve）](https://mp.weixin.qq.com/s/NayWed3FCmaXhseYRoDCqQ)
+
 
 #### 20220227-互联网信息传播的方式思考
 - [《字节跳动：从0到1的秘密》马修·布伦南 | 第三章 - 世界格局 | 微信读书](https://weread.qq.com/book-detail?type=1&senderVid=3600300&v=55832f8072797d00558f1d3k6bb4288042d316bb61e34a1)
