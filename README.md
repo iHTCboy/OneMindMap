@@ -8,6 +8,12 @@ A mind map for life
 
 <br>
 
+
+#### 20220227-互联网信息传播的方式思考
+![20220227-美国各平台使用的主要信息发布方式.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220227-美国各平台使用的主要信息发布方式.png)
+![20220227-中国各平台使用的主要信息发布方式.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220227-中国各平台使用的主要信息发布方式.png)
+
+
 #### 20210101-如何高效学习
 ![20210101-如何高效学习-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-01.png)
 ![20210101-如何高效学习-02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20210101-如何高效学习-02.png)

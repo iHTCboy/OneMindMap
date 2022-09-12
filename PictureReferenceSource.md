@@ -5,6 +5,12 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+
+#### 20220227-互联网信息传播的方式思考
+- [《字节跳动：从0到1的秘密》马修·布伦南 | 第三章 - 世界格局 | 微信读书](https://weread.qq.com/book-detail?type=1&senderVid=3600300&v=55832f8072797d00558f1d3k6bb4288042d316bb61e34a1)
+- [互联网信息传播的方式思考](https://mp.weixin.qq.com/s/MaBmYN5abvLiJzWW9z7SVw)
+
+
 #### 20210101-如何高效学习
 - [强烈推荐：用10张竖屏思维导图，读懂《如何高效学习》 - 知乎](https://zhuanlan.zhihu.com/p/92731082)
 
