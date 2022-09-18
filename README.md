@@ -8,6 +8,18 @@ A mind map for life
 
 <br>
 
+### 20220918-不良育儿（Bad Parenting）
+![20220918-Bad_Parenting-1.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-1.jpg)
+![20220918-Bad_Parenting-2.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-2.jpg)
+![20220918-Bad_Parenting-3.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-3.jpg)
+![20220918-Bad_Parenting-4.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-4.jpg)
+![20220918-Bad_Parenting-5.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-5.jpg)
+![20220918-Bad_Parenting-6.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-6.jpg)
+![20220918-Bad_Parenting-7.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-7.jpg)
+![20220918-Bad_Parenting-8.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-8.jpg)
+![20220918-Bad_Parenting-9.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-9.jpg)
+![20220918-Bad_Parenting-10.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-10.jpg)
+![20220918-Bad_Parenting-11.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-11.jpg)
 
 ### 20220912-微笑曲线（Smiling Curve）
 ![20220912-微笑曲线（Smiling Curve）-01.jpeg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220912-微笑曲线（SmilingCurve）-01.jpeg)

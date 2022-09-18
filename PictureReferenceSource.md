@@ -5,6 +5,11 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+### 20220918-不良育儿（Bad Parenting）
+- [Signs Of Bad Parenting: Are You One of Them?](https://curejoy.com/content/bad-parenting-12-signs-bad-parenting-one/)
+- [不良育儿（Bad Parenting）](https://mp.weixin.qq.com/s/EZi_52iYiHYf0xoaTFSFuQ)
+
+
 ### 20220912-微笑曲线（Smiling Curve）
 - [Smiling curve - Wikipedia](https://en.wikipedia.org/wiki/Smiling_curve)
 - [Acer's Stan Shih: Empowering Technology - Making Your Life Easier](https://web.archive.org/web/20061018060052/http://global.acer.com/about/news.asp?id=6388)
