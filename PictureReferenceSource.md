@@ -5,6 +5,11 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
+
+### 20220919-消极树VS积极树
+
+
+
 ### 20220918-不良育儿（Bad Parenting）
 - [Signs Of Bad Parenting: Are You One of Them?](https://curejoy.com/content/bad-parenting-12-signs-bad-parenting-one/)
 - [不良育儿（Bad Parenting）](https://mp.weixin.qq.com/s/EZi_52iYiHYf0xoaTFSFuQ)

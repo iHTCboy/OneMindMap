@@ -4,9 +4,14 @@ A mind map for life
 
 <img src="https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/201805_iHTCboy公众号.jpg" width="250" height:auto alt="201805_iHTCboy公众号.jpg"/>
 
-图片引用来源: [PictureReferenceSource.md](https://github.com/iHTCboy/OneMindMap/blob/master/PictureReferenceSource.md)
+- 图片引用来源: [PictureReferenceSource.md](https://github.com/iHTCboy/OneMindMap/blob/master/PictureReferenceSource.md)
+- 相册方式浏览：[OneMindMap.html](https://iHTCboy.com/more/onemindmap.html)
 
 <br>
+
+### 20220919-消极树VS积极树
+![20220919-消极树VS积极树-01.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220919-消极树VS积极树-01.jpg)
+![20220919-消极树VS积极树-02.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220919-消极树VS积极树-02.jpg)
 
 ### 20220918-不良育儿（Bad Parenting）
 ![20220918-Bad_Parenting-1.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220918-Bad_Parenting-1.jpg)
