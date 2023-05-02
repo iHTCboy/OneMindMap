@@ -6,9 +6,8 @@ OneMindMap: https://github.com/iHTCboy/OneMindMap
 - [Calling shell commands from Ruby](https://stackoverflow.com/questions/2232/calling-shell-commands-from-ruby)
 
 
-### 20220919-消极树VS积极树
-
-
+### 20230502-精力管理
+- [精力管理-吉姆·洛尔 托尼·施瓦茨　- 微信读书](https://weread.qq.com/web/bookDetail/4263296071f8f0464264d41)
 
 ### 20220918-不良育儿（Bad Parenting）
 - [Signs Of Bad Parenting: Are You One of Them?](https://curejoy.com/content/bad-parenting-12-signs-bad-parenting-one/)

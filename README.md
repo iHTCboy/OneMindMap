@@ -9,6 +9,22 @@ A mind map for life
 
 <br>
 
+### 20230502-精力管理
+![20230502-精力管理-01.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-01.png)
+![20230502-精力管理-02.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-02.png)
+![20230502-精力管理-03.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-03.png)
+![20230502-精力管理-04.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-04.png)
+![20230502-精力管理-05.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-05.png)
+![20230502-精力管理-06.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-06.png)
+![20230502-精力管理-07.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-07.png)
+![20230502-精力管理-08.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-08.png)
+![20230502-精力管理-09.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-09.png)
+![20230502-精力管理-10.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-10.png)
+![20230502-精力管理-11.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-11.png)
+![20230502-精力管理-12.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-12.png)
+![20230502-精力管理-13.png](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20230502-精力管理-13.png)
+
+
 ### 20220919-消极树VS积极树
 ![20220919-消极树VS积极树-01.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220919-消极树VS积极树-01.jpg)
 ![20220919-消极树VS积极树-02.jpg](https://github.com/iHTCboy/OneMindMap/raw/master/MindMapImages/20220919-消极树VS积极树-02.jpg)
